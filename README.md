@@ -14,6 +14,11 @@ Learn more at: https://stanford.io/3bhmLce
 
 ## Lecture 1 - Welcome | Stanford CS229: Machine Learning (Autumn 2018)
 
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2&t=0s
+
+
 ## Lecture 2
 
 ## Lecture 3
@@ -31,7 +36,25 @@ Learn more at: https://stanford.io/3bhmLce
 
 ## Lecture 9
 
-## Lecture 10
+## Lecture 10 - Decision Trees and Ensemble Methods
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10
+
+Take an adapted version of this course as part of the Stanford Artificial Intelligence Professional Program. Learn more at: https://stanford.io/3bhmLce
+
+Raphael Townshend
+PhD Candidate and CS229 Head TA
+ 
+To follow along with the course schedule and syllabus, visit: 
+http://cs229.stanford.edu/syllabus-au... 
+ 
+To get the latest news on Stanford’s upcoming professional programs in Artificial Intelligence, visit: 
+http://learn.stanford.edu/AI.html
+ 
+To view all online courses and programs offered by Stanford, visit: http://online.stanford.edu
+
 
 ## Lecture 11
 
