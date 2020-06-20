@@ -12,7 +12,7 @@ Take an adapted version of this course as part of the Stanford Artificial Intell
 
 Learn more at: https://stanford.io/3bhmLce
 
-## Lecture 1: Welcome | Stanford CS229: Machine Learning (Autumn 2018)
+## Lecture 1: Welcome
 
 Apr 18, 2020
 
