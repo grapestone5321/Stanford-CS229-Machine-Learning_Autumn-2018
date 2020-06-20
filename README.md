@@ -12,14 +12,18 @@ Take an adapted version of this course as part of the Stanford Artificial Intell
 
 Learn more at: https://stanford.io/3bhmLce
 
-## Lecture 1 - Welcome | Stanford CS229: Machine Learning (Autumn 2018)
+## Lecture 1: Welcome | Stanford CS229: Machine Learning (Autumn 2018)
 
 Apr 18, 2020
 
 https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2&t=0s
 
 
-## Lecture 2
+## Lecture 2: Linear Regression and Gradient Descent
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=3&t=124s
 
 ## Lecture 3
 
