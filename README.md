@@ -25,7 +25,9 @@ Apr 18, 2020
 
 https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=3&t=124s
 
-## Lecture 3
+## Lecture 3: Locally Weighted & Logistic Regression
+
+https://www.youtube.com/watch?v=het9HFqo1TQ&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=3
 
 ## Lecture 4
 
