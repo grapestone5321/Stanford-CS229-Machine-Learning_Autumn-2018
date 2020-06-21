@@ -16,6 +16,10 @@ Learn more at: https://stanford.io/3bhmLce
 
 http://cs229.stanford.edu/syllabus-autumn2018.html
 
+### Supervised Learning cheatsheet
+
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
+
 ## Lectures
 
 ### Lecture 1: Welcome
