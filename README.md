@@ -87,25 +87,63 @@ http://learn.stanford.edu/AI.html
 To view all online courses and programs offered by Stanford, visit: http://online.stanford.edu
 
 
-## Lecture 11
+## Lecture 11: Introduction to Neural Networks
 
-## Lecture 12
+Apr 18, 2020
 
-## Lecture 13
+https://www.youtube.com/watch?v=MfIjxPh6Pys&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=11
 
-## Lecture 14
+## Lecture 12: Backprop & Improving Neural Networks
 
-## Lecture 15
+Apr 18, 2020
 
-## Lecture 16
+https://www.youtube.com/watch?v=zUazLXZZA2U&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=12
 
-## Lecture 17
+## Lecture 13: Debugging ML Models and Error Analysis
 
-## Lecture 18
+Apr 18, 2020
 
-## Lecture 19
+https://www.youtube.com/watch?v=ORrStCArmP4&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=13
 
-## Lecture 20
+## Lecture 14:Expectation-Maximization Algorithms
 
+Apr 18, 2020
 
+https://www.youtube.com/watch?v=rVfZHWTwXSA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=14
+
+## Lecture 15: EM Algorithm & Factor Analysis
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=tw6cmL5STuY&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=15
+
+## Lecture 16: Independent Component Analysis & RL
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=YQA9lLdLig8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=16
+
+## Lecture 17: MDPs & Value/Policy Iteration
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=d5gaWTo6kDM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=17
+
+## Lecture 18: Continous State MDP & Model Simulation
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=QFu5nuc-S0s&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=18
+
+## Lecture 19: Reward Model & Linear Dynamical System
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=0rt2CsEQv6U&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=19
+
+## Lecture 20: RL Debugging and Diagnostics
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=pLhPQynL0tY&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=20
 
