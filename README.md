@@ -67,7 +67,7 @@ Apr 18, 2020
 
 https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9
 
-## Lecture 10 - Decision Trees and Ensemble Methods
+## Lecture 10: Decision Trees and Ensemble Methods
 
 Apr 18, 2020
 
