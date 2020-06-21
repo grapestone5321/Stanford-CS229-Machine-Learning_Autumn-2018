@@ -27,20 +27,45 @@ https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfV
 
 ## Lecture 3: Locally Weighted & Logistic Regression
 
+Apr 18, 2020
+
 https://www.youtube.com/watch?v=het9HFqo1TQ&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=3
 
-## Lecture 4
+## Lecture 4: Perceptron & Generalized Linear Model
 
-## Lecture 5
+Apr 18, 2020
 
+https://www.youtube.com/watch?v=iZTeva0WSTQ&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=4
 
-## Lecture 6
+## Lecture 5: GDA & Naive Bayes
 
-## Lecture 7
+Apr 18, 2020
 
-## Lecture 8
+https://www.youtube.com/watch?v=nt63k3bfXS0&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=5
 
-## Lecture 9
+## Lecture 6: Support Vector Machines
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=lDwow4aOrtg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=6
+
+## Lecture 7: Kernels
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=7
+
+## Lecture 8: Data Splits, Models & Cross-Validation
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=rjbkWSTjHzM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8
+
+## Lecture 9: Approx/Estimation Error & ERM
+
+Apr 18, 2020
+
+https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9
 
 ## Lecture 10 - Decision Trees and Ensemble Methods
 
